@@ -1,9 +1,10 @@
-import './assets/styles/custom.scss'
+import './assets/styles/custom.scss';
 import './App.css';
+import Auth from 'pages/Admin/Auth';
 
 function App() {
   return (
-   <h1>Hello World! N tava fácil</h1>
+      <Auth />
   );
 }
 

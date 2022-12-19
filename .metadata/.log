@@ -523,3 +523,18 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-05 16:17:26.584
 !MESSAGE executing callback sts4.classpath.TrPGUMBs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-05 17:53:27.104
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TrPGUMBs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-05 17:53:27.106
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TrPGUMBs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-05 17:53:27.107
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-05 17:53:27.108
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TrPGUMBs => OK
+
+!ENTRY org.eclipse.ui 2 2 2022-12-05 17:53:28.049
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
